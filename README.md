@@ -1,0 +1,3 @@
+# MEG
+
+Map Editor Gadget.
